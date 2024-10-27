@@ -3,5 +3,6 @@
 @import url('./base.css');
 
 /* Sections style */
+@import url('./menu.css');
 @import url('./gallery-image.css');
 @import url('./form.css');
